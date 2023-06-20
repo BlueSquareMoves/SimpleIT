@@ -60,3 +60,9 @@ nav .menu li a:hover {
 nav .menu li .active {
     border-bottom: 3px solid rgb(0, 115, 27);
 }
+
+.introduction p {
+    font-size: xx-large;
+    color: #424144;
+    padding-inline-start: 50px;
+}

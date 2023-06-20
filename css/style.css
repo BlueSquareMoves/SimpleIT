@@ -53,6 +53,7 @@ a {
 
 p {
     color: #424144;
+    padding-inline-start: 50px;
 }
 
 nav {
@@ -73,5 +74,4 @@ nav .menu li .active {
 .introduction p {
     font-size: xx-large;
     color: #424144;
-    padding-inline-start: 50px;
 }

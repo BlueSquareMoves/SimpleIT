@@ -45,7 +45,6 @@ a {
 
 p {
     color: #424144;
-    padding-inline-start: 50px;
 }
 
 nav {
@@ -69,4 +68,33 @@ nav .menu li .active {
     font-size: 40px;
     padding-left: 50px;
     color: #424144;
+}
+
+.videoPage iframe{
+    display: block;
+    border-style: none;
+    margin: auto;
+}
+
+.videoPage h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+.videoPage h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.videoPage div {
+    padding: 10px;
+}
+
+.videoPage p {
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
 }

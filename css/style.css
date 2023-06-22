@@ -76,6 +76,12 @@ nav .menu li .active {
     margin: auto;
 }
 
+.videoPage video {
+    display: block;
+    border-style: none;
+    margin: auto;
+}
+
 .videoPage h1 {
     display: flex;
     justify-content: center;

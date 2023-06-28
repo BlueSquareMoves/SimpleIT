@@ -19,35 +19,12 @@ body {
     
 }
 
-
-/*
-ul {
-    display: inline-block;
-    list-style-type: none;
-}
-
-li {
-    display: inline-block;
-    margin-right: 20px;
-    margin-left: 20px;
-    
-}
-*/
-/*
-a {
-    text-decoration: none;
-    color: #424144;
-    font-weight: bold;
-    font-size: 20px;
-}
-*/
-
 p {
     color: #424144;
 }
 
-a {
-    color: #0000EE;
+.videoPage a {
+    font-size: 30px;
 }
 
 nav {

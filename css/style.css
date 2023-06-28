@@ -46,6 +46,10 @@ p {
     color: #424144;
 }
 
+a {
+    color: #0000EE;
+}
+
 nav {
     width: 100%;
     position: sticky;
@@ -74,26 +78,80 @@ nav .menu li .active {
     margin: auto;
 }
 
+.videoPage video {
+    display: block;
+    border-style: none;
+    margin: auto;
+}
+
 .videoPage h1 {
     display: flex;
     justify-content: center;
     font-size: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .videoPage h2 {
     display: flex;
     justify-content: center;
     font-size: 30px;
-    padding-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
-.videoPage div {
-    padding: 10px;
+.vårdguidenLogIn {
+    display: block;
+    margin: auto;
+    width: 773px;
+    height: 485px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.vårdguidenStartPage {
+    display: flex;
+    margin: auto;
+    width: 780px;
+    height: 430px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-right: 400px;
+}
+
+.vårdguidenQR {
+    display: flex;
+    margin: auto;
+    width: 780px;
+    height: 470;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-right: 400px;
+}
+
+.vårdguidenAccount {
+    display: flex;
+    margin: auto;
+    width: 780px;
+    height: 470;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-right: 400px;
+}
+
+.vårdguidenJournalen {
+    display: flex;
+    margin: auto;
+    width: 780px;
+    height: 470;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-right: 400px;
 }
 
 .videoPage p {
     display: flex;
-    font-size: 20px;
+    font-size: 30px;
     justify-content: center;
 }
 .intro {
@@ -167,4 +225,14 @@ nav .menu li .active {
 
 .stars img {
     padding-left: 50px;
+    padding-top: 20px;
+}
+
+.instructionText {
+    display: block;
+    justify-content: center;
+    margin: auto;   
+    font-size: 40px;
+    padding-top: 20px;
+    width: 700px;
 }

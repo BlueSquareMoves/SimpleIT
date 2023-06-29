@@ -149,7 +149,7 @@ nav .menu li .active {
     font-size: 28px;
     background-color: rgba(135, 177, 255, 0.181);
     border-radius: 10px;
-    padding: 5px;
+    padding: 10px;
 }
 
 .details {
@@ -191,6 +191,7 @@ nav .menu li .active {
 
 .note-flex {
     display: flex;
+    align-items: flex-start;
 }
 
 .bubble {
